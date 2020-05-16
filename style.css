@@ -3,7 +3,11 @@
    "how to change link color." */
 
 body {
+  margin: 25px;
   background-color: black;
   color: cyan;
   font-family: Book Antiqua;
+  font-size: 14px;
 }
+
+
